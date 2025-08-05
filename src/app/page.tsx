@@ -8,8 +8,8 @@ export default function Home() {
               Strategic Capital Deployment
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-300 max-w-3xl mx-auto">
-              Larson Companies is a private investment firm dedicated to deploying our own capital 
-              in strategic opportunities that create long-term value and sustainable growth.
+              Larson Companies was founded in Minnesota in 1971. We focus on long term capital appreciation 
+              through equity investments.
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
               <a
