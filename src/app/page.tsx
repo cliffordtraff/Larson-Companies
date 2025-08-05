@@ -11,20 +11,6 @@ export default function Home() {
               Larson Companies was founded in Minnesota in 1971. We focus on long term capital appreciation 
               through equity investments.
             </p>
-            <div className="mt-10 flex items-center justify-center gap-x-6">
-              <a
-                href="/about"
-                className="rounded-md bg-blue-600 px-6 py-3 text-base font-semibold text-white shadow-sm hover:bg-blue-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600 transition-colors"
-              >
-                Learn More
-              </a>
-              <a
-                href="/contact"
-                className="text-base font-semibold leading-6 text-white hover:text-gray-300 transition-colors"
-              >
-                Contact Us <span aria-hidden="true">→</span>
-              </a>
-            </div>
           </div>
         </div>
       </section>
