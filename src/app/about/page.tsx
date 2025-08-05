@@ -14,19 +14,8 @@ export default function About() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center mb-24">
           <div>
             <h2 className="text-3xl font-bold text-gray-900 mb-6">Our Story</h2>
-            <p className="text-gray-600 mb-4">
-              Larson Companies was founded on the principle that investing your own capital creates the strongest 
-              alignment with investment outcomes. We believe that when your personal wealth is at stake, every 
-              decision is made with the utmost care and diligence.
-            </p>
-            <p className="text-gray-600 mb-4">
-              Our approach is built on decades of experience in identifying and nurturing investment opportunities 
-              that create sustainable value. We focus on strategic investments where we can apply our expertise 
-              and contribute to long-term growth.
-            </p>
             <p className="text-gray-600">
-              As a private investment firm, we have the flexibility to take a patient approach to our investments, 
-              allowing us to focus on fundamental value creation rather than short-term market fluctuations.
+              Larson Companies was founded in Minnesota in 1971. We focus on long term capital appreciation through equity investments.
             </p>
           </div>
           <div className="bg-gray-50 p-8 rounded-lg">
